@@ -1,0 +1,21 @@
+{
+  "name": "endlessRiver",
+  "version": "1.0.0",
+  "title": "EndlessRiver",
+  "description": "A lightweight jQuery plugin to content scroller!",
+  "homepage": "https://github.com/MaximusFT/endlessRiver",
+  "author": {
+    "name": "Tony Samperi",
+    "url": "https://github.com/tonysamperi"
+  },
+  "bugs": "https://github.com/MaximusFT/endlessRiver/issues",
+  "licenses": [
+    {
+      "type": "GPL2",
+      "url": "https://raw.github.com/MaximusFT/endlessRiver/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.8"
+  }
+}
